@@ -31,4 +31,5 @@ To get started with website development, follow these steps:
 
 #Website view
 
-![pokemonCards](https://github.com/adnane84/Portfolio-project/assets/92402125/2a51ca9d-2eaf-4861-8ee2-51e2acea4372)
+
+![jqueryPage](https://github.com/adnane84/Portfolio-project/assets/92402125/58880ccf-20b7-4b26-ac56-8ba9083242d2)
