@@ -28,3 +28,7 @@ To get started with website development, follow these steps:
     Clone or download the repository to your local machine.
     Install any prerequisites or dependencies listed in the materials.
     Follow along with the guide's instructions and exercises to practice each tool and technology.
+
+#Website view
+
+![pokemonCards](https://github.com/adnane84/Portfolio-project/assets/92402125/2a51ca9d-2eaf-4861-8ee2-51e2acea4372)
